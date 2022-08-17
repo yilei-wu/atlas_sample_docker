@@ -1,0 +1,4 @@
+*.pth
+*.p
+*.nii.gz
+*tar.gz
